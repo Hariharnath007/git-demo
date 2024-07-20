@@ -21,4 +21,15 @@ X=a+b
 
 Y=a-b
 
+## new code need to upload
+
+
+A=a+b+c
+B=a+b-c
+
+G=A*B
+
+H=A/B
+
+
 
